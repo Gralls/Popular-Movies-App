@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_sort_label">Sortuj według</string>
+    <string name="title_activity_movie_details" translatable="false">Szczegóły filmu</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="app_name">Popular Movies App</string>
+    <string name="sort_type_top_rated">Najlepiej oceniane</string>
+    <string name="sort_type_popular">Popularne</string>
+</resources>
